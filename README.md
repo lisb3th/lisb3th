@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lisb3th&label=Profile%20views&color=0e75b6&style=flat" alt="lisb3th" /> </p>
 
-- 🌱 I’m currently learning **Cross-platform application development**
 
-- 📫 How to reach me **epoaquizacango@cifpfbmoll.eu**
 
 <center>
 
